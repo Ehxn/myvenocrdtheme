@@ -1,0 +1,39 @@
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --backgroundImage: url('https://external-preview.redd.it/K7sturkBKFQXsWubMPSd9MaQW1oFLzDJ5fFFbQ0LyHc.png?width=640&crop=smart&auto=webp&s=abf73cb3d684211fdb0ea98328bcbef8e2edbf43');
+  --backgroundColor: #000000;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 18px;
+  --backgroundOpacity: 0.65;
+  --homeImage: url('https://i.imgur.com/g7ewEUo.jpg');
+  --homeImageSize: cover;
+  --themeColor1: #6E0000;
+  --themeColor2: #5C0566;
+  --customFont: Retroica;
+  --backgroundCode: rgba(0 0 0 /.5);
+  --backgroundName: rgba(0 0 0 /.5);
+  --columns: 1;
+  --guildgap: 3;
+  --aligndms: 0;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
